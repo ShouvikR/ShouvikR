@@ -2,7 +2,7 @@ I am a Web Developer with a passion for building responsive applications and acc
 
 - 👋 Hi, I’m @ShouvikR.
 - 👀 I’m interested in learning new things.
-- 💞️ I’m looking to collaborate with ANY cool stuff & a cool team.
+- 💞️ I’m looking to collaborate with a cool team.
 - 📫 How to reach me: shouvikshikhar@gmail.com | https://www.royshouvik.com/
 
 <!---
